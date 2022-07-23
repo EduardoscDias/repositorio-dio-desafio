@@ -1,5 +1,5 @@
 # Repositorio DIO/Santander Desafio
-Respositório para o desafio de git/github da dio para o bootcamp Santander fullstacker
+Repositório para o desafio de git/github da DIO para o bootcamp Santander fullstacker
  
  ## links
  [DIO](https://web.dio.me/users/studioeduardodias?tab=achievements/)/
